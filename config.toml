@@ -44,7 +44,7 @@ url = "index.xml"
 
 [params]
 description = ""
-footer = " [Ping Guo](https://yihui.org) | [Github](https://github.com/pgg3) | [Twitter](https://twitter.com/aBxb6IqCZTXHvjq)"
+footer = " [Ping Guo](https://pgg3.github.io/) | [Github](https://github.com/pgg3) | [Twitter](https://twitter.com/aBxb6IqCZTXHvjq)"
 
 [markup.highlight]
 codeFences = false
