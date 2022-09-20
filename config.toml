@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "Ping Guo's Blog"
 theme = "hugo-xmin" 
 
 googleAnalytics = ""
@@ -38,9 +38,6 @@ name = "Tags"
 url = "tags/"
 weight = 4
 
-[[menu.main]]
-name = "Subscribe"
-url = "index.xml"
 
 [params]
 description = ""

@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A minimal Hugo website</title>
+    <title>Home on Ping Guo&#39;s Blog</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on A minimal Hugo website</description>
+    <description>Recent content in Home on Ping Guo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 18:05:12 +0800</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/post/2022/09/20/my-first-post/</link>
+      <pubDate>Tue, 20 Sep 2022 18:05:12 +0800</pubDate>
+      
+      <guid>//localhost:1313/post/2022/09/20/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Ping Guo&#39; Blog</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>Starts here</description>
+    </item>
+    
   </channel>
 </rss>
