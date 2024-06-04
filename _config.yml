@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Ping Guo's Homepage"
-description: "Ph.D. student of Computer Science at CityU"
+description: "Ph.D. student of Computer Science"
 repository: "pgg3/pgg3.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -27,9 +27,9 @@ author:
   location: "Hong Kong"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email: "Lorem@ipsum.com"
-  researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar: "https://scholar.google.com/citations?user=bFWv-bAAAAAJ"
+  email: "pingguo5-c@my.cityu.edu.hk"
+  researchgate: "https://www.researchgate.net/profile/Ping-Guo-20"
   uri:
   bitbucket:
   codepen:
@@ -37,7 +37,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: # e.g., "github username"
+  github: "pgg3"
   google_plus:
   keybase:
   instagram:
@@ -45,7 +45,7 @@ author:
   lastfm:
   linkedin: # e.g., "linkedin username"
   dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid: # e.g., "https://orcid.org/xxxx"
+  orcid: "https://orcid.org/0000-0001-5412-914X"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
