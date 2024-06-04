@@ -26,7 +26,7 @@ My research aims to leveraging the power of computational intelligence for build
 
 # 🔥 News
 
-- *2024.05*: 🎉🎉 Our paper on the automated design of 
+- *2024.05*: 🎉🎉 Our paper on the automated design of decision-based adversarial attacks using large language models has been accepted by the Genetic and Evolutionary Computation Conference Workshop: LLMfwEC (GECCO'24).
 
 - *2023.03*: 🎉🎉 Our paper on exploring a novel property of sharing in multi-objective optimization has been accepted by International Conference on Evolutionary Multi-Criterion Optimization 2023 (EMO'23).
 
