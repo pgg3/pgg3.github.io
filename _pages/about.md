@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. student in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof.&#8195;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
+I am a Ph.D. student in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
 My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Recently, I am currently involved in projects that center on optimization problems and algorithms to create robust and trustworthy AI systems.
 
-_I am very fortunate to have worked with lots of distinguished researchers: Prof. Qingchuan Zhao_
+_I am very fortunate to have worked with lots of distinguished researchers: [Prof. Qingchuan Zhao](https://bruceqczhao.github.io/)_
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
