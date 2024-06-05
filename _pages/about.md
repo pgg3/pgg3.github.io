@@ -30,13 +30,11 @@ My research aims to leveraging the power of computational intelligence for build
 
 # 📝 Publications 
 
-
-
 - **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
 **Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
-*The Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Arxiv](https://arxiv.org/abs/2401.15335)]
+*The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)]
 
 - **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**
 **Ping Guo**, Qingfu Zhang, Xi Lin.
-*International Conference on Evolutionary Multi-Criterion Optimization* (**EMO**), 2023. [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
+*International Conference on Evolutionary Multi-Criterion Optimization (**EMO**), 2023.* [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
