@@ -40,6 +40,11 @@ My research aims to leveraging the power of computational intelligence for build
 **Ping Guo**, Qingfu Zhang, Xi Lin.    
 *International Conference on Evolutionary Multi-Criterion Optimization (**EMO**), 2023.* [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
+# 📄 Preprints
+
+
 # 👓 Activities 
-- **Reviewer**: 1
+Conference Reviewer
+- **[NIPS]** In Advances in Neural Information Processing Systems, 2024
+
 
