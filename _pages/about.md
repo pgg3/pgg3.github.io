@@ -29,11 +29,11 @@ _I am very fortunate to have worked with lots of distinguished researchers:_ [Pr
 
 # 🔥 News
 - *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
-- *2023.03*: 🎉🎉 The paper on sharing properties in multi-objective optimization has been accepted by EMO'23.
+- *2023.03*: 🎉🎉 The paper on properties of sharing in multi-objective optimization has been accepted by EMO'23.
 
 # 📝 Publications
 
-- `GECCO 2024` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
+- ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 **Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.    
 *The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)]
 
