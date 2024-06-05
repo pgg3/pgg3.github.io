@@ -35,9 +35,10 @@ My research aims to leveraging the power of computational intelligence for build
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO 2024</div><img src='images/AEL4GLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks](https://arxiv.org/abs/2401.15335)
+**L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
 
 **Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
+
 *The Genetic and Evolutionary Computation Conference* (**GECCO**), 2024.[[Arxiv](https://arxiv.org/abs/2401.15335)]
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -47,7 +48,9 @@ My research aims to leveraging the power of computational intelligence for build
 
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**
+**Ping Guo**, Qingfu Zhang, Xi Lin.
+*International Conference on Evolutionary Multi-Criterion Optimization* (**EMO**), 2023.[[Arxiv](https://arxiv.org/abs/2404.00251)][[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
