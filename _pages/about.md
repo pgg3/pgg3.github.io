@@ -20,7 +20,7 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
-My research aims to leveraging the power of computational intelligence for building the next-generation AI systems. Currently, I am working on projects focusing on optimization problems and algorithms in building robust trustworthy AI systems.
+My research focuses on harnessing computational intelligence to develop advanced AI systems. Recently, I am currently involved in projects that center on optimization problems and algorithms to create robust and trustworthy AI systems.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
