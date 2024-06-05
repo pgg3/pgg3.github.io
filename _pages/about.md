@@ -37,12 +37,14 @@ My research aims to leveraging the power of computational intelligence for build
 
 [L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks](https://arxiv.org/abs/2401.15335)
 
-**Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang
+**Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
+*The Genetic and Evolutionary Computation Conference* (**GECCO**), 2024.[[Arxiv](https://arxiv.org/abs/2401.15335)]
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 </div> -->
+
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
