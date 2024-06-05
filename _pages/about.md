@@ -46,6 +46,14 @@ Shinan Liu, Xiang Cheng, Hanchao Yang, Yuanchao Shu, Xiaoran Weng, **Ping Guo**,
 
 # 📄 Preprints
 
+- **PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**   
+**Ping Guo**, Zhiyuan Yang, Xi Lin, Qingchuan Zhao, Qingfu Zhang.   
+*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2401.10586)]
+
+- **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**   
+**Ping Guo**, Cheng Gong, Xi Lin, Zhiyuan Yang, Qingfu Zhang   
+*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2403.05100)]
+
 
 # 👓 Activities 
 Conference Reviewer
