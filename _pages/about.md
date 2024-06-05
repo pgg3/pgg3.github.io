@@ -28,8 +28,8 @@ _I am very fortunate to have worked with lots of distinguished researchers: [Pro
 
 
 # 🔥 News
-- *2024.05*: 🎉🎉 Our paper on the automated design of decision-based adversarial attacks using large language models has been accepted by the Genetic and Evolutionary Computation Conference Workshop: LLMfwEC (GECCO'24).
-- *2023.03*: 🎉🎉 Our paper on exploring a novel property of sharing in multi-objective optimization has been accepted by International Conference on Evolutionary Multi-Criterion Optimization 2023 (EMO'23).
+- *2024.05*: 🎉🎉 The paper on the automated design of decision-based adversarial attacks using large language models has been accepted by GECCO'24.
+- *2023.03*: 🎉🎉 The paper on sharing properties in multi-objective optimization has been accepted by EMO'23.
 
 # 📝 Publications
 
