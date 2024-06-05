@@ -32,6 +32,7 @@ My research aims to leveraging the power of computational intelligence for build
 
 # 📝 Publications 
 
+
 - **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
 **Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
 *The Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Arxiv](https://arxiv.org/abs/2401.15335)]
