@@ -32,6 +32,7 @@ _I am very fortunate to have worked with lots of distinguished researchers:_ [Pr
 - *2023.03*: 🎉🎉 The paper on properties of sharing in multi-objective optimization has been accepted by EMO'23.
 
 # 📝 Publications
+- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 **Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.    
