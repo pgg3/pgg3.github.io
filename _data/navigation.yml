@@ -12,6 +12,9 @@ main:
   - title: "Preprints"
     url: "/#-preprints"
 
+  - title: "Activities"
+    url: "/#-activities"
+
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
