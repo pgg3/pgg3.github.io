@@ -32,16 +32,7 @@ My research aims to leveraging the power of computational intelligence for build
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO 2024</div><img src='images/AEL4GLS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- -->
-</div>
-
-</div> -->
 
  - **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
 
@@ -55,7 +46,7 @@ My research aims to leveraging the power of computational intelligence for build
 
 	*International Conference on Evolutionary Multi-Criterion Optimization* (**EMO**), 2023. [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
-# 🎖 Activities
+# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
