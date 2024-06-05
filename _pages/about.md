@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 I am a Ph.D. student in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
 My research aims to leveraging the power of computational intelligence for building the next-generation AI systems. Currently, I am working on projects focusing on optimization problems and algorithms in building robust trustworthy AI systems.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
 
 
 # 🔥 News
@@ -30,13 +32,14 @@ My research aims to leveraging the power of computational intelligence for build
 
 # 📝 Publications
 
+
 - **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
-	**Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
-	*The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)]
+    **Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
+    *The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)]
 
 - **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**
-	**Ping Guo**, Qingfu Zhang, Xi Lin.
-	*International Conference on Evolutionary Multi-Criterion Optimization (**EMO**), 2023.* [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
+    **Ping Guo**, Qingfu Zhang, Xi Lin.
+    *International Conference on Evolutionary Multi-Criterion Optimization (**EMO**), 2023.* [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
 # 👓 Activities 
 - **Reviewer**: 1
