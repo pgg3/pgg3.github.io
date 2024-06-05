@@ -32,32 +32,11 @@ My research aims to leveraging the power of computational intelligence for build
 
 # 📝 Publications 
 
+- **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
+**Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
+*The Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Arxiv](https://arxiv.org/abs/2401.15335)]
 
+- **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**
+**Ping Guo**, Qingfu Zhang, Xi Lin.
+*International Conference on Evolutionary Multi-Criterion Optimization* (**EMO**), 2023. [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
- - **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**
-
-	**Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.
-
-	*The Genetic and Evolutionary Computation Conference* (**GECCO**), 2024. [[Arxiv](https://arxiv.org/abs/2401.15335)]
-
- - **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**
-
-	**Ping Guo**, Qingfu Zhang, Xi Lin.
-
-	*International Conference on Evolutionary Multi-Criterion Optimization* (**EMO**), 2023. [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2020.09 - 2024.06 (now)*, Ph.D. student in Computer Science, City University of Hong Kong, Hong Kong, China
-- *2016.09 - 2020.07*, B.Eng. in Network Engineering, University of Electronic Science and Technology of China, Chengdu, China
-- *2018.08 - 2019.01*, Exchange student in Electrical & Electronics Engineering, University of Strathclyde, Glasgow, UK
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2020.09 - 2020.02*, [Lorem](https://github.com/), China.
