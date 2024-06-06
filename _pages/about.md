@@ -60,6 +60,7 @@ Shinan Liu, Xiang Cheng, Hanchao Yang, Yuanchao Shu, Xiaoran Weng, **Ping Guo**,
 
 # 👓 Activities 
 Conference Reviewer
+- **[CEC]** The IEEE Congress on Evolutionary Computation, 2024
 - **[NIPS]** In Advances in Neural Information Processing Systems, 2024
 
 
