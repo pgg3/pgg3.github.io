@@ -18,11 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. student in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
+I am a doctoral candidate in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
-My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Recently, I am currently involved in projects that center on optimization problems and algorithms to create robust and trustworthy AI systems.
+My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Presently, my work is concentrated on tackling optimization challenges and devising algorithms that contribute to the robust and trustworthy AI systems.
 
-_I am very fortunate to have worked with lots of distinguished researchers:_ [Prof.&#8202;Qingchuan Zhao](https://bruceqczhao.github.io/), [Dr.&#8202;Xi Lin](https://xi-l.github.io/).
+_Throughout my academic journey, I have had the privilege of collaborating with lots of distinguished researchers:_ [Prof.&#8202;Qingchuan Zhao](https://bruceqczhao.github.io/), [Dr.&#8202;Xi Lin](https://xi-l.github.io/).
+
+_I am always on the lookout for passionate individuals to collaborate with. If you share an interest in advancing AI systems and would like to work together, please reach out to me at pingguo5-c at my dot cityu dot edu dot hk._
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
