@@ -62,6 +62,4 @@ Shinan Liu, Xiang Cheng, Hanchao Yang, Yuanchao Shu, Xiaoran Weng, **Ping Guo**,
 Conference Reviewer
 - **[NIPS]** In Advances in Neural Information Processing Systems, 2024
 
-# 🔗 Useful Links
-
 
