@@ -43,7 +43,7 @@ _I am always on the lookout for passionate individuals to collaborate with. If y
 **Ping Guo**, Qingfu Zhang, Xi Lin.    
 *International Conference on Evolutionary Multi-Criterion Optimization (**EMO**), 2023.* [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
-- ``USENIX 2021`` **Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset**    
+- ``USENIX Sec. 2021`` **Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset**    
 Shinan Liu, Xiang Cheng, Hanchao Yang, Yuanchao Shu, Xiaoran Weng, **Ping Guo**, Kexiong (Curtis) Zeng, Gang Wang, Yaling Yang    
 *The 30th USENIX Security Symposium (**USENIX Security**), 2021.* [[USENIX Security](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-shinan)]
 
