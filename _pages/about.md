@@ -63,4 +63,7 @@ Conference Reviewer
 - **[CEC]** The IEEE Congress on Evolutionary Computation, 2024
 - **[NIPS]** In Advances in Neural Information Processing Systems, 2024
 
+Journal Reviewer
+- **[SWEVO]** Swarm and Evolutionary Computation
+
 
