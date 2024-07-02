@@ -36,25 +36,25 @@ _I am always on the lookout for passionate individuals to collaborate with. If y
 # 📝 Publications
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
-**Ping Guo**, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang.    
+**P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
 *The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)]
 
 - ``EMO 2023`` **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**    
-**Ping Guo**, Qingfu Zhang, Xi Lin.    
+**P. Guo**, Q. Zhang, X. Lin.    
 *International Conference on Evolutionary Multi-Criterion Optimization (**EMO**), 2023.* [[Arxiv](https://arxiv.org/abs/2404.00251)] [[EMO'23](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_18)]
 
 - ``USENIX Sec. 2021`` **Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset**    
-Shinan Liu, Xiang Cheng, Hanchao Yang, Yuanchao Shu, Xiaoran Weng, **Ping Guo**, Kexiong (Curtis) Zeng, Gang Wang, Yaling Yang    
+S. Liu, X. Cheng, H. Yang, Y. Shu, X. Weng, **P. Guo**, K. (Curtis) Zeng, G. Wang, Y. Yang    
 *The 30th USENIX Security Symposium (**USENIX Security**), 2021.* [[USENIX Security](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-shinan)]
 
 # 📄 Preprints
 
 - **PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**   
-**Ping Guo**, Zhiyuan Yang, Xi Lin, Qingchuan Zhao, Qingfu Zhang.   
+**P. Guo**, Z. Yang, X. Lin, Q. Zhao, Q. Zhang.   
 *ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2401.10586)]
 
 - **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**   
-**Ping Guo**, Cheng Gong, Xi Lin, Zhiyuan Yang, Qingfu Zhang   
+**P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
 *ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2403.05100)]
 
 
@@ -65,5 +65,3 @@ Conference Reviewer
 
 Journal Reviewer
 - **[SWEVO]** Swarm and Evolutionary Computation
-
-
