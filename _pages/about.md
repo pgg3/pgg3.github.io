@@ -35,9 +35,13 @@ _I am always on the lookout for passionate individuals to collaborate with. If y
 
 # 📝 Publications
 
+- ``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
+Cheng Gong, Ping Guo, Tianye Shu, Qingfu Zhang & Hisao Ishibuchi   
+*International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
+
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
-*The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)]
+*The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)] [[GECCO'24](https://dl.acm.org/doi/10.1145/3638530.3664121)]
 
 - ``EMO 2023`` **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**    
 **P. Guo**, Q. Zhang, X. Lin.    
@@ -62,6 +66,7 @@ S. Liu, X. Cheng, H. Yang, Y. Shu, X. Weng, **P. Guo**, K. (Curtis) Zeng, G. Wan
 Conference Reviewer
 - **[CEC]** The IEEE Congress on Evolutionary Computation, 2024
 - **[NIPS]** In Advances in Neural Information Processing Systems, 2024
+- **[ICLR]** International Conference on Learning Representations, 2025
 
 Journal Reviewer
 - **[SWEVO]** Swarm and Evolutionary Computation
