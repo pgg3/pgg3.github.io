@@ -36,7 +36,7 @@ _I am always on the lookout for passionate individuals to collaborate with. If y
 # 📝 Publications
 
 - ``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
-Cheng Gong, Ping Guo, Tianye Shu, Qingfu Zhang & Hisao Ishibuchi   
+Cheng Gong, **P. Guo**, Tianye Shu, Qingfu Zhang & Hisao Ishibuchi   
 *International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
