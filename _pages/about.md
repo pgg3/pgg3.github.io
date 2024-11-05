@@ -18,18 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a doctoral candidate in the Department of Computer Science at City University of Hong Kong (CityU), advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
+I am a doctoral candidate in the CS Department at CityU, advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
 My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Presently, my work is concentrated on tackling optimization challenges and devising algorithms that contribute to the robust and trustworthy AI systems.
 
 _Throughout my academic journey, I have had the privilege of collaborating with lots of distinguished researchers:_ [Prof.&#8202;Qingchuan Zhao](https://bruceqczhao.github.io/), [Dr.&#8202;Xi Lin](https://xi-l.github.io/).
 
-_I am always on the lookout for passionate individuals to collaborate with. If you share an interest in advancing AI systems and would like to work together, please reach out to me at pingguo5-c at my dot cityu dot edu dot hk._
+<!-- _I am always on the lookout for passionate individuals to collaborate with. If you share an interest in advancing AI systems and would like to work together, please reach out to me at pingguo5-c at my dot cityu dot edu dot hk._ -->
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 
 # 🔥 News
+- *2024.11*: 🎉🎉 The paper on the automated design of using LLMs is available at [Arxiv](https://arxiv.org/abs/2410.14716).
 - *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
 - *2023.03*: 🎉🎉 The paper on properties of sharing in multi-objective optimization has been accepted by EMO'23.
 
@@ -61,12 +62,16 @@ S. Liu, X. Cheng, H. Yang, Y. Shu, X. Weng, **P. Guo**, K. (Curtis) Zeng, G. Wan
 **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
 *ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2403.05100)]
 
+- **A Systematic Survey on Large Language Models for Algorithm Design**   
+F. Liu, Y. Yao, **P. Guo**, Z. Yang, Z. Zhao, X. Lin, X. Tong, M. Yuan, Z. Lu, Z. Wang, Q. Zhang   
+*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2410.14716)]
 
 # 👓 Activities 
 Conference Reviewer
 - **[CEC]** The IEEE Congress on Evolutionary Computation, 2024
 - **[NIPS]** In Advances in Neural Information Processing Systems, 2024
 - **[ICLR]** International Conference on Learning Representations, 2025
+- **[AISTATS]** International Conference on Artificial Intelligence and Statistics, 2025
 
 Journal Reviewer
 - **[SWEVO]** Swarm and Evolutionary Computation
