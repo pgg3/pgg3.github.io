@@ -30,13 +30,17 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 
 # 🔥 News
+- *2024.11*: 🎉🎉 The paper on exploring the adversarial frontier is accepted by IEEE TETCI.
 - *2024.11*: 🎉🎉 The paper on the automated design of using LLMs is available at [Arxiv](https://arxiv.org/abs/2410.14716).
 - *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
 - *2023.03*: 🎉🎉 The paper on properties of sharing in multi-objective optimization has been accepted by EMO'23.
 
 # 📝 Publications
+- ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
+- **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
+*IEEE Transactions on Emerging Topics in Computational Intelligence* [[Arxiv](https://arxiv.org/abs/2403.05100)]
 
-- **[C1]**``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
+- ``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
 C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi   
 *International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
 
@@ -57,10 +61,6 @@ S. Liu, X. Cheng, H. Yang, Y. Shu, X. Weng, **P. Guo**, K. (Curtis) Zeng, G. Wan
 - **PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**   
 **P. Guo**, Z. Yang, X. Lin, Q. Zhao, Q. Zhang.   
 *ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2401.10586)]
-
-- **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**   
-**P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
-*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2403.05100)]
 
 - **A Systematic Survey on Large Language Models for Algorithm Design**   
 F. Liu, Y. Yao, **P. Guo**, Z. Yang, Z. Zhao, X. Lin, X. Tong, M. Yuan, Z. Lu, Z. Wang, Q. Zhang   
