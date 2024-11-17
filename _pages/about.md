@@ -38,7 +38,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 # 📝 Publications
 - ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
 - **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
-*IEEE Transactions on Emerging Topics in Computational Intelligence* [[Arxiv](https://arxiv.org/abs/2403.05100)]
+*IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[Arxiv](https://arxiv.org/abs/2403.05100)]
 
 - ``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
 C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi   
