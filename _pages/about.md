@@ -36,7 +36,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 # 📝 Publications
 
-- ``C1````PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
+- **[C1]**``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
 C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi   
 *International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
 
