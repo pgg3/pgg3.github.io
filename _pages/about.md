@@ -22,7 +22,7 @@ I am a doctoral candidate in the CS Department at CityU, advised by [Prof.&#8202
 
 My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Presently, my work is concentrated on tackling optimization challenges and devising algorithms that contribute to the robust and trustworthy AI systems.
 
-_Throughout my academic journey, I have had the privilege of collaborating with lots of distinguished researchers:_ [Prof.&#8202;Qingchuan Zhao](https://bruceqczhao.github.io/), [Dr.&#8202;Xi Lin](https://xi-l.github.io/).
+_Throughout my academic journey, I have had the privilege of collaborating with lots of distinguished researchers:_ [Prof.&#8202;Qingchuan Zhao](https://bruceqczhao.github.io/), [Dr.&#8202;Xi Lin](https://xi-l.github.io/), and [Mr.&#8202;Cheng Gong](https://chenggong1995.github.io/cg.github.io/).
 
 <!-- _I am always on the lookout for passionate individuals to collaborate with. If you share an interest in advancing AI systems and would like to work together, please reach out to me at pingguo5-c at my dot cityu dot edu dot hk._ -->
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -40,10 +40,6 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 - **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
 *IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[Arxiv](https://arxiv.org/abs/2403.05100)]
 
-- ``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
-C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi   
-*International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
-
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
 *The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)] [[GECCO'24](https://dl.acm.org/doi/10.1145/3638530.3664121)]
@@ -55,6 +51,14 @@ C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi
 - ``USENIX Sec. 2021`` **Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset**    
 S. Liu, X. Cheng, H. Yang, Y. Shu, X. Weng, **P. Guo**, K. (Curtis) Zeng, G. Wang, Y. Yang    
 *The 30th USENIX Security Symposium (**USENIX Security**), 2021.* [[USENIX Security](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-shinan)]
+
+- ``PPSN 2024`` **LTR-HSS: A Learning-to-Rank Based Framework for Hypervolume Subset Selection**    
+C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi   
+*International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
+
+- ``IEEE TEVC`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
+- C. Gong, Y. Nan, K. Shang, P. Guo, H. Ishibuchi, Q. Zhang   
+*IEEE Transactions on Evolutionary Computation (**TEVC**).* [[TEVC](https://ieeexplore.ieee.org/abstract/document/10742945)]
 
 # 📄 Preprints
 
