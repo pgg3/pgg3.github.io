@@ -56,7 +56,7 @@ S. Liu, X. Cheng, H. Yang, Y. Shu, X. Weng, **P. Guo**, K. (Curtis) Zeng, G. Wan
 C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi   
 *International Conference on Parallel Problem Solving from Nature (**PPSN**), 2024.* [[PPSN'24](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_3)]
 
-- ``IEEE TEVC`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
+- ``IEEE TEVC`` **DPP-HSS: Towards Fast and Scalable Hypervolume Subset Selection for Many-objective Optimization**
 - C. Gong, Y. Nan, K. Shang, P. Guo, H. Ishibuchi, Q. Zhang   
 *IEEE Transactions on Evolutionary Computation (**TEVC**).* [[TEVC](https://ieeexplore.ieee.org/abstract/document/10742945)]
 
