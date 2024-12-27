@@ -74,6 +74,7 @@ F. Liu, Y. Yao, **P. Guo**, Z. Yang, Z. Zhao, X. Lin, X. Tong, M. Yuan, Z. Lu, Z
 Conference Reviewer
 - **[CEC]** The IEEE Congress on Evolutionary Computation, 2024
 - **[NIPS]** In Advances in Neural Information Processing Systems, 2024
+- **[ICML]** International Conference on Machine Learning, 2025
 - **[ICLR]** International Conference on Learning Representations, 2025
 - **[AISTATS]** International Conference on Artificial Intelligence and Statistics, 2025
 
