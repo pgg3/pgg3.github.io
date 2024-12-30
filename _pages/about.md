@@ -30,6 +30,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 
 # 🔥 News
+- *2024.12*: 🎉🎉 Our paper on open-ended exploration of symbolic regression is available at [Arxiv](https://arxiv.org/abs/2412.18890).
 - *2024.11*: 🎉🎉 The paper on exploring the adversarial frontier is accepted by IEEE TETCI.
 - *2024.11*: 🎉🎉 The paper on the automated design of using LLMs is available at [Arxiv](https://arxiv.org/abs/2410.14716).
 - *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
@@ -61,6 +62,10 @@ C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi
 *IEEE Transactions on Evolutionary Computation (**TEVC**).* [[TEVC](https://ieeexplore.ieee.org/abstract/document/10742945)]
 
 # 📄 Preprints
+
+- **CoEvo: Continual Evolution of Symbolic Solutions Using Large Language Models**   
+**P. Guo**, Q. Zhang, X. Lin   
+*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2412.18890)]
 
 - **PuriDefense: Randomized Local Implicit Adversarial Purification for Defending Black-box Query-based Attacks**   
 **P. Guo**, Z. Yang, X. Lin, Q. Zhao, Q. Zhang.   
