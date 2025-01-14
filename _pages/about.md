@@ -30,11 +30,11 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 
 # 🔥 News
+- *2025.01*: 🎉🎉 Our paper on multi-objective adversarial attack is available at [Arxiv](https://arxiv.org/abs/2501.07251).
 - *2024.12*: 🎉🎉 Our paper on open-ended exploration of symbolic regression is available at [Arxiv](https://arxiv.org/abs/2412.18890).
 - *2024.11*: 🎉🎉 The paper on exploring the adversarial frontier is accepted by IEEE TETCI.
 - *2024.11*: 🎉🎉 The paper on the automated design of using LLMs is available at [Arxiv](https://arxiv.org/abs/2410.14716).
 - *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
-- *2023.03*: 🎉🎉 The paper on properties of sharing in multi-objective optimization has been accepted by EMO'23.
 
 # 📝 Publications
 - ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
@@ -74,6 +74,10 @@ C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi
 - **A Systematic Survey on Large Language Models for Algorithm Design**   
 F. Liu, Y. Yao, **P. Guo**, Z. Yang, Z. Zhao, X. Lin, X. Tong, M. Yuan, Z. Lu, Z. Wang, Q. Zhang   
 *ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2410.14716)]
+
+- **MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**   
+**P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang   
+*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2501.07251)]
 
 # 👓 Activities 
 Conference Reviewer
