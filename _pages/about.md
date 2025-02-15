@@ -39,7 +39,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 # 📝 Publications
 - ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
 - **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
-*IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[Arxiv](https://arxiv.org/abs/2403.05100)]
+*IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[TETCI](https://ieeexplore.ieee.org/document/10885038)]
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
