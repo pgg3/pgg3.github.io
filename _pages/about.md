@@ -38,7 +38,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 # 📝 Publications
 - ``CVPR 2025`` **MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**    
-**P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang 
+- **P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang 
 *Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.* [[Arxiv](https://arxiv.org/abs/2501.07251)]
 
 - ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
