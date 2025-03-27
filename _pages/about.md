@@ -30,16 +30,20 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 
 # 🔥 News
-- *2025.01*: 🎉🎉 Our paper on multi-objective adversarial attack is available at [Arxiv](https://arxiv.org/abs/2501.07251).
+- *2025.03*: 🎉🎉 Our paper on multi-objective adversarial attack is accepted by CVPR2025.
 - *2024.12*: 🎉🎉 Our paper on open-ended exploration of symbolic regression is available at [Arxiv](https://arxiv.org/abs/2412.18890).
 - *2024.11*: 🎉🎉 The paper on exploring the adversarial frontier is accepted by IEEE TETCI.
 - *2024.11*: 🎉🎉 The paper on the automated design of using LLMs is available at [Arxiv](https://arxiv.org/abs/2410.14716).
 - *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
 
 # 📝 Publications
+- ``CVPR 2025`` **MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**    
+**P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang    
+*Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.* [[Arxiv](https://arxiv.org/abs/2501.07251)]
+
 - ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
-- **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
-*IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[Arxiv](https://arxiv.org/abs/2403.05100)]
+**P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
+*IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[TETCI](https://ieeexplore.ieee.org/document/10885038)]
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 - **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
@@ -75,17 +79,15 @@ C. Gong, **P. Guo**, T. Shu, Q. Zhang & H. Ishibuchi
 F. Liu, Y. Yao, **P. Guo**, Z. Yang, Z. Zhao, X. Lin, X. Tong, M. Yuan, Z. Lu, Z. Wang, Q. Zhang   
 *ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2410.14716)]
 
-- **MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**   
-**P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang   
-*ArXiv, 2024.* [[Arxiv](https://arxiv.org/abs/2501.07251)]
 
 # 👓 Activities 
 Conference Reviewer
 - **[CEC]** The IEEE Congress on Evolutionary Computation, 2024
-- **[NIPS]** In Advances in Neural Information Processing Systems, 2024
+- **[NIPS]** In Advances in Neural Information Processing Systems, 2024, 2025
 - **[ICML]** International Conference on Machine Learning, 2025
 - **[ICLR]** International Conference on Learning Representations, 2025
 - **[AISTATS]** International Conference on Artificial Intelligence and Statistics, 2025
 
 Journal Reviewer
 - **[SWEVO]** Swarm and Evolutionary Computation
+- **[ECJ]** Evolutionary Computation
