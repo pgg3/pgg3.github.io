@@ -41,7 +41,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 **P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang    
 *Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.* [[Arxiv](https://arxiv.org/abs/2501.07251)]
 
-- ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**
+- ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**    
 **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
 *IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[TETCI](https://ieeexplore.ieee.org/document/10885038)]
 
