@@ -46,7 +46,7 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 *IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[TETCI](https://ieeexplore.ieee.org/document/10885038)]
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
-- **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
+ **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
 *The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)] [[GECCO'24](https://dl.acm.org/doi/10.1145/3638530.3664121)]
 
 - ``EMO 2023`` **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**    
