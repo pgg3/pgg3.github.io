@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a doctoral candidate in the CS Department at CityU, advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
+I am a Postdoc in the CS Department at CityU, advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
 My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Presently, my work is concentrated on tackling optimization challenges and devising algorithms that contribute to the robust and trustworthy AI systems.
 
