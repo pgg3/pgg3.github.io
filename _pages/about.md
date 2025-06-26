@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Postdoc in the CS Department at CityU, advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
+I am a Postdoctoral Fellow in the CS Department at City University of Hong Kong, advised by [Prof.&#8202;Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html) (Chair Professor, IEEE Fellow).
 
-My research focuses on harnessing **computational intelligence** to develop **advanced AI systems**. Presently, my work is concentrated on tackling optimization challenges and devising algorithms that contribute to the robust and trustworthy AI systems.
+My research focuses on computational intelligence approaches to build advanced AI systems. Specifically, I develop evolutionary computation methods and machine learning algorithms for solving complex optimization problems in real-world applications.
 
 _Throughout my academic journey, I have had the privilege of collaborating with lots of distinguished researchers:_ [Prof.&#8202;Qingchuan Zhao](https://bruceqczhao.github.io/), [Dr.&#8202;Xi Lin](https://xi-l.github.io/), and [Mr.&#8202;Cheng Gong](https://chenggong1995.github.io/cg.io/).
 
@@ -30,24 +30,21 @@ _Throughout my academic journey, I have had the privilege of collaborating with 
 
 
 # 🔥 News
-- *2025.03*: 🎉🎉 Our paper on multi-objective adversarial attack is accepted by CVPR2025.
-- *2024.12*: 🎉🎉 Our paper on open-ended exploration of symbolic regression is available at [Arxiv](https://arxiv.org/abs/2412.18890).
-- *2024.11*: 🎉🎉 The paper on exploring the adversarial frontier is accepted by IEEE TETCI.
-- *2024.11*: 🎉🎉 The paper on the automated design of using LLMs is available at [Arxiv](https://arxiv.org/abs/2410.14716).
-- *2024.05*: 🎉🎉 The paper on the automated design of adversarial attacks algorithms using LLMs has been accepted by GECCO'24.
+- *2025.03*: 🎉🎉 Our paper on multi-objective adversarial attack is accepted by [CVPR2025](https://cvpr.thecvf.com/virtual/2025/poster/33923).
+- *2024.11*: 🎉🎉 The paper on exploring the adversarial frontier is accepted by [IEEE TETCI](https://ieeexplore.ieee.org/document/10885038).
 
 # 📝 Publications
 - ``CVPR 2025`` **MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**    
 **P. Guo**, C. Gong, X. Lin, F. Liu, Z. Lu, Q. Zhang, Z. Wang    
-*Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.* [[Arxiv](https://arxiv.org/abs/2501.07251)]
+*Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.* [[Arxiv](https://arxiv.org/pdf/2501.07251)] [[CVPR2025](https://cvpr.thecvf.com/virtual/2025/poster/33923)]
 
 - ``IEEE TETCI`` **Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**    
 **P. Guo**, C. Gong, X. Lin, Z. Yang, Q. Zhang   
-*IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**).* [[TETCI](https://ieeexplore.ieee.org/document/10885038)]
+*IEEE Transactions on Emerging Topics in Computational Intelligence (**IEEE TETCI**).* [[Arxiv](https://arxiv.org/abs/2403.05100)] [[IEEE TETCI](https://ieeexplore.ieee.org/document/10885038)]
 
 - ``GECCO 2024`` **L-AutoDA: Large Language Models for Automatically Evolving Decision-based Adversarial Attacks**    
 **P. Guo**, F. Liu, X. Lin, Q. Zhao, Q. Zhang.    
-*The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/abs/2401.15335)] [[GECCO'24](https://dl.acm.org/doi/10.1145/3638530.3664121)]
+*The Genetic and Evolutionary Computation Conference (**GECCO**), 2024.* [[Arxiv](https://arxiv.org/pdf/2401.15335)] [[GECCO'24](https://dl.acm.org/doi/10.1145/3638530.3664121)]
 
 - ``EMO 2023`` **Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**    
 **P. Guo**, Q. Zhang, X. Lin.    
